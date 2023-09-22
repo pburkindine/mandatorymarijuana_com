@@ -1,0 +1,30 @@
+﻿/*
+*default.html
+*/
+
+.main {
+	font-family:Arial, Helvetica, sans-serif;
+	
+}
+
+.red {
+	color: red;
+}
+
+.ul {
+	text-decoration:underline;
+}
+
+.b {
+	font-weight: bold;
+}
+
+.i {
+	font-style:italic;
+}
+
+.rb {
+	border-right-style:dotted;
+	border-right-color: black;
+	border-right-width: 1px;
+}
